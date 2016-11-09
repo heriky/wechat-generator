@@ -1,0 +1,2 @@
+处于model层与controller之间的service层
+用于向web服务和微信服务提供统一数据服务

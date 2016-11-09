@@ -1,0 +1,32 @@
+{
+  "name": "weixin-generator",
+  "version": "1.0.0",
+  "description": "weixin generator for scaffold Bee",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heriky/wechat-generator.git"
+  },
+  "keywords": [
+    "wechat",
+    "weixin",
+    "koa"
+  ],
+  "author": "hk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heriky/wechat-generator/issues"
+  },
+  "homepage": "https://github.com/heriky/wechat-generator#readme",
+  "dependencies": {
+    "koa-views": "^4.1.0",
+    "superagent": "^2.3.0"
+  },
+  "devDependencies": {
+    "koa-logger": "^1.3.0"
+  }
+}
